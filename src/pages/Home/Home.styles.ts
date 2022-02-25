@@ -11,7 +11,7 @@ export const Container = styled.div(({ theme }) => ({
 export const Main = styled.main(({ theme }) => ({
   maxWidth: 500,
   width: "100%",
-  padding: "30px 30px 40px",
+  padding: "30px 20px 50px",
   position: "relative",
 
   backgroundColor: theme.palette.background.paper,

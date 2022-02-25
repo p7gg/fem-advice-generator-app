@@ -2,10 +2,12 @@
   "name": "advice-generator-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://prodigy7kx.github.io/fem-advice-generator-app/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^17.0.2",
@@ -17,6 +19,7 @@
     "@types/react-dom": "^17.0.10",
     "@types/styled-components": "^5.1.23",
     "@vitejs/plugin-react": "^1.0.7",
+    "gh-pages": "^3.2.3",
     "typescript": "^4.5.4",
     "vite": "^2.8.0"
   }
