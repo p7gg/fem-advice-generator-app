@@ -2,7 +2,7 @@
 
 ![Design preview for the Advice generator app coding challenge](./src/assets/design/desktop-preview.jpg)
 
-# [**DEMO**](https://prodigy7kx.github.io/fem-advice-generator-app/)
+# [**DEMO**](https://p7gg.github.io/fem-advice-generator-app/)
 
 ## Welcome! 👋
 
